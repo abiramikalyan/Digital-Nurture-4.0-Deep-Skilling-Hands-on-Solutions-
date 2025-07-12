@@ -1,0 +1,4 @@
+com\DemoApplication.class
+com\controller\AuthenticationController.class
+com\example\App.class
+com\config\SecurityConfig.class
