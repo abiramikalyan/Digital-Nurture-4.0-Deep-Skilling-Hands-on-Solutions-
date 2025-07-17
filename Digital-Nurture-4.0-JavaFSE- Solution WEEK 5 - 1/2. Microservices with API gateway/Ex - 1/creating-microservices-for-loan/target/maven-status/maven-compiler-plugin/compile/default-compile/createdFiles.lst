@@ -1,0 +1,4 @@
+com\cognizant\loan\LoanApplication.class
+com\cognizant\loan\Loan.class
+com\cognizant\loan\LoanController.class
+com\cognizant\loan\LoanService.class
